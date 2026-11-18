@@ -46,7 +46,7 @@ Los ejercicios 5 al 10 leen la entrada estándar:
 
 | 5 | `e5.c` | Completo | |
 
-| 6 | `e6.c` | Pendiente | |
+| 6 | `e6.c` | Completo | |
 
 | 7 | `e7.c` | Pendiente | |
 
