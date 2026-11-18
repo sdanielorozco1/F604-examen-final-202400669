@@ -1,0 +1,58 @@
+\# Examen final F604 - Ejercicios de C
+
+
+
+Nombre: Selvin Daniel Orozco Orozco
+
+Carné: 202400669
+
+
+
+\## Cómo compilar y ejecutar
+
+
+
+mkdir -p bin
+
+gcc -Wall -o bin/e1 e1.c
+
+./bin/e1
+
+
+
+Los ejercicios 5 al 10 leen la entrada estándar:
+
+
+
+./bin/e6 < prueba.txt
+
+
+
+\## Estado de los ejercicios
+
+
+
+| Ejercicio | Archivo | Estado | Notas |
+
+| :---: | :---: | :---: | :--- |
+
+| 1 | `e1.c` | Pendiente | |
+
+| 2 | `e2.c` | Pendiente | |
+
+| 3 | `e3.c` | Pendiente | |
+
+| 4 | `e4.c` | Pendiente | |
+
+| 5 | `e5.c` | Pendiente | |
+
+| 6 | `e6.c` | Pendiente | |
+
+| 7 | `e7.c` | Pendiente | |
+
+| 8 | `e8.c` | Pendiente | |
+
+| 9 | `e9.c` | Pendiente | |
+
+| 10 | `e10.c` | Pendiente | |
+
